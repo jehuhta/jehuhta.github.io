@@ -108,8 +108,3 @@ https://jehuhta.github.io/
 <i>Focused on building practical, real-world engineering systems.</i>
 
 </div>
-<div align="center">
-
-<i>Built with a focus on engineering, autonomy, and data-driven systems.</i>
-
-</div>
