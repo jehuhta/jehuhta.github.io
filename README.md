@@ -31,8 +31,7 @@ My work emphasizes:
 - Data Analytics
 - Classic & Computer Vision Machine Learning
 - ETL, ELTL Pipelines
-- Cloud Data Engineering Solutions (
-
+- Cloud Data Engineering Solutions 
 
 ---
 
@@ -42,6 +41,7 @@ My work emphasizes:
 - Cloud Systems (Databricks, Azure)
 - SQL (Postgre, DUCKDB)
 - Arduino C
+- CAD (Fusion 360)
 - Data engineering & ETL systems
 - Machine learning 
 - Embedded systems & robotics
