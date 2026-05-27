@@ -1,8 +1,8 @@
 <div align="center">
 
-<h1> Jehuhta — Developer Portfolio </h1>
+<h1> Jehuhta — Student Developer Portfolio </h1>
 
-<h3><i>Software Developer • Data Engineer • Robotics & Systems Engineering</i></h3>
+<h3><i>ML Engineer • Data Engineer/Analyst • Robotics & Systems Engineering</i></h3>
 
 <p>
 Portfolio showcasing projects in data engineering, automation, robotics, and applied software systems.
