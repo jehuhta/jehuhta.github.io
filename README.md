@@ -53,7 +53,7 @@ My work emphasizes:
 ## <ins>Contact / Portfolio</ins>
 
 More information and additional projects:  
-[https://github.com/jehuhta](https://github.com/jehuhta)
+### [https://github.com/jehuhta](https://github.com/jehuhta)
 
 ---
 
