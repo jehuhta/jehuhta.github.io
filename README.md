@@ -29,6 +29,7 @@ I’m a developer focused on building practical systems in data engineering/mach
 
 My work emphasizes:
 - Data Analytics
+- Data Engineering
 - Classic & Computer Vision Machine Learning
 - ETL, ELTL Pipelines
 - Cloud Data Engineering Solutions 
