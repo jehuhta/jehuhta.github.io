@@ -16,20 +16,24 @@ Portfolio showcasing projects in data engineering, automation, robotics, and app
 
 ## <ins>Projects</ins>
 
-### Autonomous Outdoor Rover
-GPS-Based Autonomous Robotics Platform for Outdoor Navigation
+### Bunnycam
+AI-Based Pet Health Monitoring System
 
-A modular embedded robotics system designed for waypoint-based navigation in real-world outdoor environments.
+Computer vision system concept for monitoring animal behavior and detecting potential health risks using automated detection logic.
 
 **Key features:**
-- GPS waypoint navigation system
-- Embedded motor control architecture
-- Modular robotics design for extensibility
-- Outdoor real-world testing environment
-- Foundation for future AI and computer vision integration
+- Real-time object detection (YOLO-based)
+- Behavioral anomaly tracking
+- Automated alert logic for early health warnings
+- Local-first privacy-focused design
+- Dashboard-based monitoring concept
 
-🔗 Repository:  
-https://github.com/jehuhta/Autonomous_Rover_Outdoor
+<br>
+
+### 🔗 Project Repository
+## 👉👉👉 https://github.com/jehuhta/Bunnycam 👈👈👈
+
+<br>
 
 ---
 
@@ -41,31 +45,35 @@ A data engineering pipeline for validating, estimating, and correcting electrici
 **Key features:**
 - XML ingestion and transformation pipeline
 - Detection of negative, oversize, and invalid readings
-- Interpolation and extrapolation-based estimation logic
+- Interpolation and extrapolation estimation logic
 - Holiday-aware metering rules
 - PowerBI dashboard integration for inspection and monitoring
 
-🔗 Repository:  
-https://github.com/jehuhta/<metering-pipeline>
+<br>
+
+### 🔗 Project Repository
+## 👉👉👉 https://github.com/jehuhta/<metering-pipeline> 👈👈👈
+
+<br>
 
 ---
 
-### Bunnycam
-AI-Based Pet Health Monitoring System
+### Autonomous Outdoor Rover
+GPS-Based Autonomous Robotics Platform for Outdoor Navigation
 
-Computer vision system concept for monitoring animal behavior and detecting potential health risks using automated detection logic.
+A modular embedded robotics system designed for waypoint-based navigation in real-world outdoor environments.
 
 **Key features:**
-- Real-time object detection (YOLO-based)
-- Behavioral anomaly tracking
-- Automated alert logic
-- Local-first privacy-focused design
-- Dashboard-based monitoring concept
+- GPS waypoint navigation system
+- Embedded motor control architecture
+- Modular robotics design for extensibility
+- Outdoor real-world testing environment
+- Future AI and computer vision expansion platform
 
-🔗 Repository:  
-https://github.com/jehuhta/<bunnycam>
+<br>
 
----
+### 🔗 Project Repository
+## 👉👉👉 https://github.com/jehuhta/Autonomous_Rover_Outdoor 👈👈👈
 
 <br>
 
@@ -80,8 +88,6 @@ My work emphasizes:
 - Real-world data processing pipelines
 - Embedded and hardware-integrated software
 - Applied machine learning and automation
-
-I prefer building functional systems over purely theoretical projects.
 
 ---
 
@@ -98,7 +104,7 @@ I prefer building functional systems over purely theoretical projects.
 
 ## <ins>Contact / Portfolio</ins>
 
-More information and additional projects:
+More information and additional projects:  
 https://jehuhta.github.io/
 
 ---
