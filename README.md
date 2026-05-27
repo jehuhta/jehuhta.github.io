@@ -2,7 +2,7 @@
 
 # Jehuhta — Developer Portfolio
 
-<h3><i>Software Developer • Data Engineer • Robotics & AI Enthusiast</i></h3>
+<h3><i>Data Engineer • Data Analyst • Robotics & AI Enthusiast</i></h3>
 
 <p>
 A personal developer portfolio showcasing projects in <strong>data engineering, automation, robotics, and applied software systems</strong>.
