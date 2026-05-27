@@ -1,6 +1,6 @@
 <div align="center">
 
-# Jehuhta — Developer Portfolio
+<h1> Jehuhta — Developer Portfolio </h1>
 
 <h3><i>Software Developer • Data Engineer • Robotics & Systems Engineering</i></h3>
 
@@ -31,7 +31,7 @@ Computer vision system concept for monitoring animal behavior and detecting pote
 <br>
 
 ### 🔗 Project Repository
-## 👉👉👉 https://github.com/jehuhta/Bunnycam 👈👈👈
+##  https://github.com/jehuhta/Bunnyca
 
 <br>
 
@@ -52,7 +52,7 @@ A data engineering pipeline for validating, estimating, and correcting electrici
 <br>
 
 ### 🔗 Project Repository
-## 👉👉👉 https://github.com/jehuhta/<metering-pipeline> 👈👈👈
+##  https://github.com/jehuhta/<metering-pipeline>
 
 <br>
 
@@ -73,7 +73,7 @@ A modular embedded robotics system designed for waypoint-based navigation in rea
 <br>
 
 ### 🔗 Project Repository
-## 👉👉👉 https://github.com/jehuhta/Autonomous_Rover_Outdoor 👈👈👈
+## https://github.com/jehuhta/Autonomous_Rover_Outdoor 
 
 <br>
 
