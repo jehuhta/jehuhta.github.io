@@ -1,45 +1,152 @@
-# Jeremy Huhta
-Rovaniemi, Finland | Phone: +358 0406241244 | jehuhta@edu.lapinamk.fi
+<div align="center">
 
-Certified to work both in Finland and the United States without sponsorship. Proficient in Python (pandas, scikit-learn, tensorflow, PySpark), SQL, and basic web development. 
+# Jehuhta — Developer Portfolio
 
+<h3><i>Software Developer • Data Engineer • Robotics & AI Enthusiast</i></h3>
 
-### EDUCATION	
+<p>
+A personal developer portfolio showcasing projects in <strong>data engineering, automation, robotics, and applied software systems</strong>.
+Built with a focus on clean design, practical engineering, and real-world problem solving.
+</p>
 
+</div>
 
-LAPLAND UNIVERSITY OF APPLIED SCIENCES                                                                                	     Rovaniemi, FI
-Bachelor of Engineering	2024- Present
-Machine Learning and Data Engineering
-Focus: Data Engineering, Cloud ML, Machine Learning
+<br>
 
-CALIFORNIA STATE UNIVERSITY – EAST BAY	Hayward, USA
-Bachelor of Business Admin	2020 - 2023
-General Management, Operational Management
-Focus: Finance Analytics, Accounting, Operational Strategy, Finance Technology
+---
 
-### WORK EXPERIENCE	
+## <ins>About Me</ins>
 
+I’m a software developer focused on building **data-driven systems, automation pipelines, and robotics/embedded projects**.
 
-PSET & LAMK (Data Consulting for Municipal Electricity Provider) 	Rovaniemi, FI
-Data Engineering Intern	May 2025 – Sep 2025
-Built a prototype-level pipeline which estimated electricity usage under abnormal, edge-case conditions – Potentially leading to increased revenue capture using an Azure Databricks OLAP data architecture featuring pandas-in-spark. The data workflow is capable of running batch processing of up to 800 gigabytes of files per day in a scalable, cloud multi-cluster environment.
-Created an inspection performance dashboard in PowerBI for users to inspect and validate pipeline results.
-Utilized a monitoring system which alerted key technical staff when data workflows and pipelines fail. Workflow and data validation failures automatically send emails and SMS messages to relevant technical staff.
+My work spans:
+- Data engineering & ETL pipelines  
+- Machine learning & anomaly detection systems  
+- Embedded robotics & autonomous systems  
+- Full-stack experimentation and tooling  
 
-AGUA CALIENTE CASINOS	Palm Springs, USA
-Customer Relations Analyst	2016 – 2020
-Led a customer service improvement project which improved business interactions measured by secret shopper service scores by 30% over four years.
-Designed strategy, operational-level changes backed by data-driven insights from data analysts and engineers to improve service quality. Pitched SOP changes to operational board members and listened to key stakeholders related to the project.
+I enjoy building systems that solve real-world problems rather than purely theoretical projects.
 
+<br>
 
-### PROJECTS	
+---
 
-https://github.com/jehuhta/Electricity_Meter_Anomaly_Pipeline
-https://github.com/jehuhta/Bunnycam__Rabbit_Monitoring_System
-https://github.com/jehuhta/Autonomous_Rover_Outdoor
+## <ins>Featured Projects</ins>
 
-### ADDITIONAL	
+### 🚀 Data Engineering & Metering Pipeline
+**Electricity Meter Data Validation & Estimation System**
 
+> Automated ETLC pipeline for detecting and correcting anomalies in electricity meter data using Pandas, NumPy, and rule-based estimation logic.
 
-Technical Skills: Python (pandas, numpy, sci-kit learn, pyspark, pytorch), SQL (postgre), Azure Cloud, Databricks, 
-Languages: Fluent English; Conversational Proficiency in Dutch
+**Key highlights:**
+- XML ingestion & structured transformation
+- Anomaly detection (negative, oversize, status, zero-series)
+- Interpolation & extrapolation estimation logic
+- Holiday-aware Finnish metering compliance
+- PowerBI dashboard integration
+
+🔗 Repository:  
+👉 [View Project](https://github.com/jehuhta/your-repo-link)
+
+---
+
+### 🤖 Autonomous Outdoor Rover
+**GPS-Based Autonomous Robotics Platform**
+
+> Embedded rover system designed for outdoor navigation and waypoint-based autonomy.
+
+**Key highlights:**
+- GPS waypoint navigation
+- Embedded motor control system
+- Modular robotics architecture
+- Real-world outdoor testing environment
+- Designed for future AI + vision expansion
+
+🔗 Repository:  
+👉 [View Project](https://github.com/jehuhta/Autonomous_Rover_Outdoor)
+
+---
+
+### 🐇 Bunnycam (Concept Project)
+**AI Rabbit Health Monitoring System**
+
+> Computer vision system for monitoring rabbit litter box activity and detecting early signs of health issues.
+
+**Key highlights:**
+- YOLO-based real-time detection
+- Health anomaly monitoring logic
+- Automated alert system
+- Privacy-first local processing design
+- Interactive dashboard concept
+
+🔗 Repository:  
+👉 [View Project](https://github.com/jehuhta/Bunnycam)
+
+---
+
+## <ins>Technical Focus</ins>
+
+- Python (Pandas, NumPy, Flask)
+- Machine Learning (YOLO, anomaly detection)
+- Embedded Systems (ESP32, robotics control)
+- Data Engineering pipelines
+- PowerBI & data visualization
+- Automation systems & scripting
+
+<br>
+
+---
+
+## <ins>Portfolio Architecture Style</ins>
+
+This portfolio is designed around a **minimal, developer-first structure**:
+
+- Clear separation between projects
+- Focus on engineering depth over visuals
+- Simple navigation flow
+- Emphasis on real technical systems
+- No unnecessary UI clutter
+
+Inspired by modern GitHub Pages developer portfolios:
+- project-first layout
+- clean typography
+- minimal but structured sections
+- emphasis on links and engineering work
+
+<br>
+
+---
+
+## <ins>Projects Section (Quick Links)</ins>
+
+| Project | Description | Link |
+|--------|-------------|------|
+| Data Pipeline | Electricity meter anomaly detection & estimation | 👉 [Open Repo](https://github.com/jehuhta/Autonomous_Rover_Outdoor) |
+| Autonomous Rover | GPS-based outdoor robotics platform | 👉 [Open Repo](https://github.com/jehuhta/Autonomous_Rover_Outdoor) |
+| Bunnycam | AI-powered pet health monitoring system | 👉 [Open Repo](https://github.com/jehuhta/Bunnycam) |
+
+<br>
+
+---
+
+## <ins>What This Portfolio Represents</ins>
+
+This portfolio is not just a collection of projects — it represents:
+
+- real-world problem solving
+- systems engineering thinking
+- applied machine learning
+- embedded + software integration
+- end-to-end pipeline design
+
+Each project is built to demonstrate **engineering depth rather than surface-level demos**.
+
+<br>
+
+---
+
+<div align="center">
+
+<i>Built with a focus on engineering, autonomy, and data-driven systems.</i>
+
+</div>
