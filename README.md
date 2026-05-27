@@ -2,11 +2,10 @@
 
 # Jehuhta — Developer Portfolio
 
-<h3><i>Data Engineer • Data Analyst • Robotics & AI Enthusiast</i></h3>
+<h3><i>Software Developer • Data Engineer • Robotics & Systems Engineering</i></h3>
 
 <p>
-A personal developer portfolio showcasing projects in <strong>data engineering, automation, robotics, and applied software systems</strong>.
-Built with a focus on clean design, practical engineering, and real-world problem solving.
+Portfolio showcasing projects in data engineering, automation, robotics, and applied software systems.
 </p>
 
 </div>
@@ -15,136 +14,100 @@ Built with a focus on clean design, practical engineering, and real-world proble
 
 ---
 
-## <ins>About Me</ins>
+## <ins>Projects</ins>
 
-I’m a software developer focused on building **data-driven systems, automation pipelines, and robotics/embedded projects**.
+### Autonomous Outdoor Rover
+GPS-Based Autonomous Robotics Platform for Outdoor Navigation
 
-My work spans:
-- Data engineering & ETL pipelines  
-- Machine learning & anomaly detection systems  
-- Embedded robotics & autonomous systems  
-- Full-stack experimentation and tooling  
+A modular embedded robotics system designed for waypoint-based navigation in real-world outdoor environments.
 
-I enjoy building systems that solve real-world problems rather than purely theoretical projects.
+**Key features:**
+- GPS waypoint navigation system
+- Embedded motor control architecture
+- Modular robotics design for extensibility
+- Outdoor real-world testing environment
+- Foundation for future AI and computer vision integration
+
+🔗 Repository:  
+https://github.com/jehuhta/Autonomous_Rover_Outdoor
+
+---
+
+### Electricity Meter Data Validation & Estimation Pipeline
+ETLC Pipeline for Meter Data Anomaly Detection and Correction
+
+A data engineering pipeline for validating, estimating, and correcting electricity meter data anomalies in compliance with Finnish metering principles.
+
+**Key features:**
+- XML ingestion and transformation pipeline
+- Detection of negative, oversize, and invalid readings
+- Interpolation and extrapolation-based estimation logic
+- Holiday-aware metering rules
+- PowerBI dashboard integration for inspection and monitoring
+
+🔗 Repository:  
+https://github.com/jehuhta/<metering-pipeline>
+
+---
+
+### Bunnycam
+AI-Based Pet Health Monitoring System
+
+Computer vision system concept for monitoring animal behavior and detecting potential health risks using automated detection logic.
+
+**Key features:**
+- Real-time object detection (YOLO-based)
+- Behavioral anomaly tracking
+- Automated alert logic
+- Local-first privacy-focused design
+- Dashboard-based monitoring concept
+
+🔗 Repository:  
+https://github.com/jehuhta/<bunnycam>
+
+---
 
 <br>
 
 ---
 
-## <ins>Featured Projects</ins>
+## <ins>About</ins>
 
-### 🚀 Data Engineering & Metering Pipeline
-**Electricity Meter Data Validation & Estimation System**
+I’m a developer focused on building practical systems in data engineering, embedded robotics, and automation.
 
-> Automated ETLC pipeline for detecting and correcting anomalies in electricity meter data using Pandas, NumPy, and rule-based estimation logic.
+My work emphasizes:
+- End-to-end system design
+- Real-world data processing pipelines
+- Embedded and hardware-integrated software
+- Applied machine learning and automation
 
-**Key highlights:**
-- XML ingestion & structured transformation
-- Anomaly detection (negative, oversize, status, zero-series)
-- Interpolation & extrapolation estimation logic
-- Holiday-aware Finnish metering compliance
-- PowerBI dashboard integration
-
-🔗 Repository:  
-👉 [View Project](https://github.com/jehuhta/your-repo-link)
-
----
-
-### 🤖 Autonomous Outdoor Rover
-**GPS-Based Autonomous Robotics Platform**
-
-> Embedded rover system designed for outdoor navigation and waypoint-based autonomy.
-
-**Key highlights:**
-- GPS waypoint navigation
-- Embedded motor control system
-- Modular robotics architecture
-- Real-world outdoor testing environment
-- Designed for future AI + vision expansion
-
-🔗 Repository:  
-👉 [View Project](https://github.com/jehuhta/Autonomous_Rover_Outdoor)
-
----
-
-### 🐇 Bunnycam (Concept Project)
-**AI Rabbit Health Monitoring System**
-
-> Computer vision system for monitoring rabbit litter box activity and detecting early signs of health issues.
-
-**Key highlights:**
-- YOLO-based real-time detection
-- Health anomaly monitoring logic
-- Automated alert system
-- Privacy-first local processing design
-- Interactive dashboard concept
-
-🔗 Repository:  
-👉 [View Project](https://github.com/jehuhta/Bunnycam)
+I prefer building functional systems over purely theoretical projects.
 
 ---
 
 ## <ins>Technical Focus</ins>
 
 - Python (Pandas, NumPy, Flask)
-- Machine Learning (YOLO, anomaly detection)
-- Embedded Systems (ESP32, robotics control)
-- Data Engineering pipelines
+- Data engineering & ETL systems
+- Machine learning & anomaly detection
+- Embedded systems & robotics
 - PowerBI & data visualization
-- Automation systems & scripting
-
-<br>
+- Automation and scripting tools
 
 ---
 
-## <ins>Portfolio Architecture Style</ins>
+## <ins>Contact / Portfolio</ins>
 
-This portfolio is designed around a **minimal, developer-first structure**:
-
-- Clear separation between projects
-- Focus on engineering depth over visuals
-- Simple navigation flow
-- Emphasis on real technical systems
-- No unnecessary UI clutter
-
-Inspired by modern GitHub Pages developer portfolios:
-- project-first layout
-- clean typography
-- minimal but structured sections
-- emphasis on links and engineering work
-
-<br>
+More information and additional projects:
+https://jehuhta.github.io/
 
 ---
 
-## <ins>Projects Section (Quick Links)</ins>
+<div align="center">
 
-| Project | Description | Link |
-|--------|-------------|------|
-| Data Pipeline | Electricity meter anomaly detection & estimation | 👉 [Open Repo](https://github.com/jehuhta/Autonomous_Rover_Outdoor) |
-| Autonomous Rover | GPS-based outdoor robotics platform | 👉 [Open Repo](https://github.com/jehuhta/Autonomous_Rover_Outdoor) |
-| Bunnycam | AI-powered pet health monitoring system | 👉 [Open Repo](https://github.com/jehuhta/Bunnycam) |
+<i>Focused on building practical, real-world engineering systems.</i>
 
-<br>
-
----
-
-## <ins>What This Portfolio Represents</ins>
-
-This portfolio is not just a collection of projects — it represents:
-
-- real-world problem solving
-- systems engineering thinking
-- applied machine learning
-- embedded + software integration
-- end-to-end pipeline design
-
-Each project is built to demonstrate **engineering depth rather than surface-level demos**.
-
-<br>
-
----
-
+</div>
 <div align="center">
 
 <i>Built with a focus on engineering, autonomy, and data-driven systems.</i>
