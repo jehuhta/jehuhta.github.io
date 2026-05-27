@@ -25,7 +25,7 @@ Portfolio showcasing projects in data engineering, automation, robotics, and app
 
 ## <ins>About</ins>
 
-I’m a developer focused on building practical systems in data engineering/machine and is typically supplemented with learning embedded robotics, and automation, and end-to-end systems.
+I’m a developer focused on building practical systems in data engineering & machine learning. My projects are typically supplemented with embedded robotics, and automation, and end-to-end systems.
 
 My work emphasizes:
 - Data Analytics
