@@ -1,6 +1,9 @@
-<div align="center">
- <h3><i>ML Engineer • Data Engineer/Analyst • Robotics & Systems Engineering</i></h3>
  <h3><a href="https://github.com/jehuhta">https://github.com/jehuhta</a></h3>
+
+<div align="center">
+
+ <h3><i>ML Engineer • Data Engineer/Analyst • Robotics & Systems Engineering</i></h3>
+
  <br>
   
   <p>Portfolio showcasing projects in data engineering, automation, robotics, and applied software systems.</p>
