@@ -1,5 +1,3 @@
- <h3><a href="https://github.com/jehuhta">https://github.com/jehuhta</a></h3>
-
 <div align="center">
 
  <h3><i>ML Engineer • Data Engineer/Analyst • Robotics & Systems Engineering</i></h3>
