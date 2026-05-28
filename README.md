@@ -16,9 +16,14 @@ Portfolio showcasing projects in data engineering, automation, robotics, and app
 
 ## <ins>Projects</ins>
 
-###  [Bunnycam__Rabbit_Monitoring_System](https://github.com/jehuhta/Bunnycam__Rabbit_Monitoring_System)
-###  [Autonomous_Rover_Outdoor](https://github.com/jehuhta/Autonomous_Rover_Outdoor)
+### [Bunnycam__Rabbit_Monitoring_System](https://github.com/jehuhta/Bunnycam__Rabbit_Monitoring_System)
+![IoT](https://img.shields.io/badge/IoT-blue) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue) ![End--to--end](https://img.shields.io/badge/End--to--end-blue) ![Data Engineering](https://img.shields.io/badge/Data%20Engineering-blue)
+
+### [Autonomous_Rover_Outdoor](https://github.com/jehuhta/Autonomous_Rover_Outdoor)
+![IoT](https://img.shields.io/badge/IoT-blue) ![Robotics](https://img.shields.io/badge/Robotics-blue) ![Cloud](https://img.shields.io/badge/Cloud-blue) ![Data Engineering](https://img.shields.io/badge/Data%20Engineering-blue)
+
 ### [Electricity_Meter_Anomaly_Pipeline](https://github.com/jehuhta/Electricity_Meter_Anomaly_Pipeline)
+![Data Engineering](https://img.shields.io/badge/Data%20Engineering-blue) ![Cloud](https://img.shields.io/badge/Cloud-blue)
 
 
 ---
