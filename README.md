@@ -94,7 +94,7 @@
 <h2><ins>Contact / Portfolio</ins></h2>
 <p>More information and additional projects:</p>
 <h3><a href="https://github.com/jehuhta">https://github.com/jehuhta</a></h3>
-<h3><a href="[https://github.com/jehuhta](https://www.linkedin.com/in/jeremy-huhta/)">https://github.com/jehuhta](https://www.linkedin.com/in/jeremy-huhta</a></h3>
+<h3><a href="https://github.com/jehuhta">https://www.linkedin.com/in/jeremy-huhta></a></h3>
 
 <hr>
 
