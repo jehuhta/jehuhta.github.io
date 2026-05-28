@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="313" height="313" alt="headshot_circle" src="https://github.com/user-attachments/assets/35d26cf6-e595-44b7-bb9d-aeb5a70d113b" />
+<img width="213" height="213" alt="headshot_circle" src="https://github.com/user-attachments/assets/35d26cf6-e595-44b7-bb9d-aeb5a70d113b" />
 
 
  <h3><i>ML Engineer • Data Engineer/Analyst • Robotics & Systems Engineering</i></h3>
@@ -18,6 +18,7 @@
   <tr>
     <td width="70%">
       <h3><a href="https://github.com/jehuhta/Bunnycam__Rabbit_Monitoring_System">Bunnycam - Rabbit Monitoring System</a></h3>
+       <p>A computer vision system built to detect early signs of GI stasis in pet rabbits — a condition that can be fatal within hours. Using a custom-trained YOLO11s model on ~3,500 manually        annotated images, the system monitors litter box visits 24/7 and sends phone alerts when intervention may be needed, all running on a self-hosted Raspberry Pi with no third-party cloud         required.</p>
       <img src="https://img.shields.io/badge/Machine%20Learning-white"/>
       <img src="https://img.shields.io/badge/Data%20Engineering-orange"/>
       <img src="https://img.shields.io/badge/End--to--end-green"/>
@@ -31,6 +32,7 @@
   <tr>
     <td width="70%">
       <h3><a href="https://github.com/jehuhta/Autonomous_Rover_Outdoor">LIDAR & Computer Vision Autonomous Rover</a></h3>
+      <p>A student-built outdoor robotics platform capable of autonomous GPS waypoint navigation across real-world terrain. The system integrates embedded hardware, sensor telemetry, and a            modular software architecture designed as a foundation for future LIDAR, SLAM, and computer vision expansion.</p>
       <img src="https://img.shields.io/badge/Machine%20Learning-white"/>
       <img src="https://img.shields.io/badge/Data%20Engineering-orange"/>
       <img src="https://img.shields.io/badge/Robotics-purple"/>
@@ -44,6 +46,7 @@
   <tr>
     <td width="70%">
       <h3><a href="https://github.com/jehuhta/Electricity_Meter_Anomaly_Pipeline">ETL Pipeline - Validation & Correcting Municipal SMART-Meter Electricity</a></h3>
+      <p>A prototype ETLC pipeline built to validate and correct anomalous electricity meter readings from Landis+Gyr AIM and Linkware Generis systems before transmission to the Finnish              Datahub. Implements interpolation and extrapolation estimation logic in compliance with the Finnish Principles of Electricity Metering 2024, with a PowerBI dashboard for anomaly                monitoring and pipeline telemetry.</p>
       <img src="https://img.shields.io/badge/Data%20Analytics-yellow"/>
       <img src="https://img.shields.io/badge/Data%20Engineering-orange"/>
       <img src="https://img.shields.io/badge/Azure%20-blue"/>
