@@ -16,15 +16,42 @@ Portfolio showcasing projects in data engineering, automation, robotics, and app
 
 ## <ins>Projects</ins>
 
-### [Bunnycam__Rabbit_Monitoring_System](https://github.com/jehuhta/Bunnycam__Rabbit_Monitoring_System)
-![IoT](https://img.shields.io/badge/IoT-blue) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue) ![End--to--end](https://img.shields.io/badge/End--to--end-blue) ![Data Engineering](https://img.shields.io/badge/Data%20Engineering-blue)
+## <ins>Projects</ins>
+<table>
+  <tr>
+    <td width="70%">
 
-### [Autonomous_Rover_Outdoor](https://github.com/jehuhta/Autonomous_Rover_Outdoor)
-![IoT](https://img.shields.io/badge/IoT-blue) ![Robotics](https://img.shields.io/badge/Robotics-blue) ![Cloud](https://img.shields.io/badge/Cloud-blue) ![Data Engineering](https://img.shields.io/badge/Data%20Engineering-blue)
+### [Bunnycam - Rabbit Monitoring System](https://github.com/jehuhta/Bunnycam__Rabbit_Monitoring_System)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-white) ![Data Engineering](https://img.shields.io/badge/Data%20Engineering-orange) ![End--to--end](https://img.shields.io/badge/End--to--end-green) ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-yellow) ![IoT](https://img.shields.io/badge/IoT-blue)
 
-### [Electricity_Meter_Anomaly_Pipeline](https://github.com/jehuhta/Electricity_Meter_Anomaly_Pipeline)
-![Data Engineering](https://img.shields.io/badge/Data%20Engineering-blue) ![Cloud](https://img.shields.io/badge/Cloud-blue)
+  </td>
+    <td width="30%">
+      <img src="https://github.com/user-attachments/assets/70868c88-085c-44b0-8d68-45f6116eae81" width="200"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="70%">
 
+### [LIDAR & Computer Vision Autonomous Rover](https://github.com/jehuhta/Autonomous_Rover_Outdoor)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-white) ![Data Engineering](https://img.shields.io/badge/Data%20Engineering-orange) ![Robotics](https://img.shields.io/badge/Robotics-purple) ![Cloud](https://img.shields.io/badge/Cloud-blue) ![IoT](https://img.shields.io/badge/IoT-blue)
+
+  </td>
+    <td width="30%">
+      <img src="https://github.com/user-attachments/assets/53bcd4b0-b0f5-4169-9bac-c47ee5a35b5f" width="200"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="70%">
+
+### [ETL Pipeline - Validation & Correcting Municipal SMART-Meter Electricity](https://github.com/jehuhta/Electricity_Meter_Anomaly_Pipeline)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-yellow) ![Data Engineering](https://img.shields.io/badge/Data%20Engineering-orange) ![Azure Cloud](https://img.shields.io/badge/Cloud-blue)
+
+  </td>
+    <td width="30%">
+      <img src="https://github.com/user-attachments/assets/746ef599-3e73-41a0-9b16-1c1e62144633" width="200"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
