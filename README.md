@@ -1,5 +1,8 @@
 <div align="center">
 
+<img width="313" height="313" alt="headshot_circle" src="https://github.com/user-attachments/assets/35d26cf6-e595-44b7-bb9d-aeb5a70d113b" />
+
+
  <h3><i>ML Engineer • Data Engineer/Analyst • Robotics & Systems Engineering</i></h3>
 
  <br>
